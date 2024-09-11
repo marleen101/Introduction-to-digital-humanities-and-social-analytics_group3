@@ -14,7 +14,17 @@ Atteveldt, Wouter van, and Tai-Quan Peng. ‘When Communication Meets Computatio
 - [ ] Do we agree/disagree, what did we think/personal reflection, and how are we going ti=o intergrate this in our presentation?
 - [ ] Explain unfamiliar concepts 
 
-### Presentation structure (idea)
+### Discussion articles (suggested aid)
+Questions/topics to keep in mind while reading: 
+- What is the research/question of the article (- how is it answered)
+- What is the aim/goal of the article (who is the audience)
+- What tools are mentioned within the article (if applicable)
+- What are important points/concepts?
+- What personal connotations do I have when reading the article?
+- What questions do I have while reading the article?
+- What do I find interesting in the article?
+
+### Presentation structure (suggested)
 1) Introduce paper (provenance) (0,5 min)
 2) Research question and goal/aim (0,5 min)
 3) Important concepts (+ explanations) (2 min)
