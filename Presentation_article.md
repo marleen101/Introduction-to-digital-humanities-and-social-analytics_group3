@@ -24,6 +24,9 @@ Questions/topics to keep in mind while reading:
 - What questions do I have while reading the article?
 - What do I find interesting in the article?
 
+Notes: 
+In your discussion and presentation pay special attention to both the opportunities and the limitations of the data and methods discussed/used in the two articles. 
+
 ### Presentation structure (suggested)
 1) Introduce paper (provenance) (0,5 min)
 2) Research question and goal/aim (0,5 min)
