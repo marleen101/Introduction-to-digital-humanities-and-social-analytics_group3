@@ -1,6 +1,6 @@
 # Presentation article 
 ## The article
-Atteveldt, Wouter van, and Tai-Quan Peng. ‘When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science’. Communication Methods and Measures 12, no. 2–3 (3 April 2018): 81–92. https://doi.org/10.1080/19312458.2018.1458084
+Atteveldt, Wouter van, and Tai-Quan Peng. ‘When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science’. *Communication Methods and Measures* 12, no. 2–3 (3 April 2018): 81–92. https://doi.org/10.1080/19312458.2018.1458084
 ## Plan
 - Monday: online - discuss article understanding 
 - Tuesday: meet after class (15:30) - discuss tasks, points
