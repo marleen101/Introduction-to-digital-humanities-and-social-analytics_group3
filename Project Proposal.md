@@ -1,4 +1,4 @@
-##Project Proposal 
+## Project Proposal 
 
 1) The project proposal is max 800 words. 
 2) The project description must contain: 
@@ -20,7 +20,7 @@ Clear references to the literature you used in an official academic style;
 Think of the the team charter as your team's log. It should describe the team members (i.e., composition, backgrounds, academic disciplines, etc.), clearly state deliverables and deadlines, foreseen and actual challenges and opportunities, potential pitfalls, means of collaborations and communications, frequency of meetings, division in work packages, timeline, and so on. 
 
 
-##Template for assignment Dataset evaluation for research
+## Template for assignment Dataset evaluation for research
 Evaluating a dataset for answering research questions can be subdivided into different steps
 that move from the dataset to formulating a research question that you want to answer with it
 to the plan you make to answer the research question. They are outlined below. For the
