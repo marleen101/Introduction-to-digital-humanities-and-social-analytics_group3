@@ -110,6 +110,7 @@ In your discussion and presentation pay special attention to both the opportunit
   - Documentation should not use specialised language if there is a want for transparancy (espeically in an interdisciplanary group)
   - Human influence can be a good thing, can enrich data categorization
   - Need to be critical of data, definitions, choices made etc.
+  - the categorization of meta-data in our article already posses a problem, the definitions are lacking ex. boarding, boarded, suspicious etc. 
 
 - Thought-provoking questions for class discussion, designed to stimulate further analysis and debate. Questions should encourage critical thinking and connect the readings to broader course themes;
   - Ethical: Researchers can be scared of ethical laws, as they might block their right to research. How can we deal with sensitivity of data coming from social media platforms. Is that data still usable?
