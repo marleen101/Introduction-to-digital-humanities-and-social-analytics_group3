@@ -28,7 +28,6 @@ Evaluating a dataset for answering research questions can be subdivided into dif
 that move from the dataset to formulating a research question that you want to answer with it
 to the plan you make to answer the research question. They are outlined below. For the
 assignment, make a document in which you answer these questions.
-Dataset
 - What is the nature of the dataset you want to use;
 - What is it about;
 - Where does it come from;
