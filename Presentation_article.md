@@ -7,12 +7,12 @@ Atteveldt, Wouter van, and Tai-Quan Peng. ‘When Communication Meets Computatio
 - Wednesday: maybe trial run of th epresentation and discuss other articles
 
 ## What still needs to be done? 
-- [ ] Which part of the presentation is being presented by who?
-- [ ] Who makes the slides
-- [ ] Summarise article - name article, and context of article
-- [ ] Think of questions 
-- [ ] Do we agree/disagree, what did we think/personal reflection, and how are we going ti=o intergrate this in our presentation?
-- [ ] Explain unfamiliar concepts 
+- [x] Which part of the presentation is being presented by who?
+- [x] Who makes the slides
+- [x] Summarise article - name article, and context of article
+- [x] Think of questions 
+- [x] Do we agree/disagree, what did we think/personal reflection, and how are we going ti=o intergrate this in our presentation?
+- [x] Explain unfamiliar concepts 
 
 ### Discussion articles (suggested aid)
 Questions/topics to keep in mind while reading: 
