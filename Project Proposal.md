@@ -17,10 +17,13 @@ The dataset you will use to answer/investigate your RQ should be problematized (
 A short description of how you think you need to process, model, and expand the data based on your RQ (use the data scope steps and/or Template_Dataset_evaluation.docx* -> See Template dataset
 
 Clear references to the literature you used in an official academic style;
+
 Think of the the team charter as your team's log. It should describe the team members (i.e., composition, backgrounds, academic disciplines, etc.), clearly state deliverables and deadlines, foreseen and actual challenges and opportunities, potential pitfalls, means of collaborations and communications, frequency of meetings, division in work packages, timeline, and so on. 
 
 
 ## Template for assignment Dataset evaluation for research
+
+### Dataset
 Evaluating a dataset for answering research questions can be subdivided into different steps
 that move from the dataset to formulating a research question that you want to answer with it
 to the plan you make to answer the research question. They are outlined below. For the
@@ -34,10 +37,11 @@ Dataset
 - Which variables does it contain;
 - What technical format is it in, can you handle that, or can you transform it to a format
 you can handle;
-Research question
-- what sort of questions (related to your research) could you use this dataset and for
+
+### Research question
+- What sort of questions (related to your research) could you use this dataset and for
 what sort of questions is it unusable.
-- (re)formulate your research question so that you can answer it with the dataset.
+- (Re)formulate your research question so that you can answer it with the dataset.
 *Note:
 You may need to reconsider this point when you make your plan because working with the data will
 give you new insights.*
@@ -53,23 +57,24 @@ more consistent, or can you think of ways to get missing information?
 on the transformations below on them.
 - What transformations does your dataset need to prepare it for automatic processing?
 Think of:
-- Selecting the data: throwing away parts of the set before you start processing
+  - Selecting the data: throwing away parts of the set before you start processing
 because they are not complete enough, do not fall into the limits of you
 research question for some reason etc.
-- Modelling: are the data in the form required for your research question or do
+  - Modelling: are the data in the form required for your research question or do
 they need to be remodelled? This can be simple transforming them into
 another format, or discarding parts of the data that are not relevant to answer
 your question.
-- Normalization: of dates, of persons, titles, words etc. What variation is
+  - Normalization: of dates, of persons, titles, words etc. What variation is
 important, and what should be eliminated? What happens if you do not
 normalise?
-- Linking different types of data within the dataset or with other information
+  - Linking different types of data within the dataset or with other information
 elsewhere
-Classifying: are the data too complex to answer your questions and can they be
+  - Classifying: are the data too complex to answer your questions and can they be
 classified into different types. On what grounds? Try to find formal
 classifications
-- definitions for the classifications. Can the classification be performed by an
+  - Definitions for the classifications. Can the classification be performed by an
 automated process, or should you do it manually, or a combination of both
+
 Please note:
 - This evaluation template is a practical tool designed to make a systematic evaluation. It does not include
 selecting a dataset for your research, let alone trying to formulate research questions as such. Obviously, these
