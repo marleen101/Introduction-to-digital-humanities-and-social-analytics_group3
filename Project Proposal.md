@@ -2,15 +2,23 @@
 
 1) The project proposal is max 800 words. 
 2) The project description must contain: 
-  - a research question (RQ), 
+  - a research question (RQ): max 2 sentences
   - a thesis statement
   - a description of the dataset
   - an action plan
   - a team chart
 
 The relevance of the RQ should be based on a minimum of 3 articles/books on the topic;
+- What has been done so far on this topic?
+- Is there a gap we can identify?
+- How recent/dated is the field?
+- What can we contribute?
+- Will there be innovative aspects? Which ones?
 
 The thesis statement is the solution/answer to the RQ that you want to investigate;
+- (Maybe) in a single sentence: the problem, solution, and 'plan'
+- The formulation process can be continuously improved, but starting with a tentative statement (hypothesis) from small to big.
+- SMART principles: specific, measurable, attainable, realistic, timely (why now?)
 
 The dataset you will use to answer/investigate your RQ should be problematized (e.g., what are the advantages and limitations of the dataset?);
 
