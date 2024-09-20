@@ -110,3 +110,7 @@ Treat them as such, not as a questionnaire
 - Why economic status (article back-up)
 - How will we do it: 
 - Is this pattern still valid to this day?
+5. Extra ideas
+- Media coverage
+- Civil wars
+- Define the dataset, access to more data to see the categorization and definition. Suggestion for future data documentation. 
