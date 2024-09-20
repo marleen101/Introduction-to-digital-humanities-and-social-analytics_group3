@@ -109,3 +109,4 @@ Treat them as such, not as a questionnaire
 - Why 2008 and 2012
 - Why economic status (article back-up)
 - How will we do it
+- Is this pattern still valid to this day?
