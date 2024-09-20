@@ -117,7 +117,7 @@ Treat them as such, not as a questionnaire
 - Define the dataset, access to more data to see the categorization and definition. Suggestion for future data documentation.
 - Check on other maritime piracy research to see what factors they focus on
 - Text mining, frequency, call for more useful and explicit data collection => enhance usability
-## Idea 
+### Idea 
 We look at categories being used in the data set, and how other current research categorize their data to check on their alignment, and how to make the dataset more usable in future research. 
 The users have different way of categorizing than research. 
 How do researchers talk about the data that they use for investigating piracy attacks and compare with current dataset. 
