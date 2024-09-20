@@ -121,3 +121,5 @@ Treat them as such, not as a questionnaire
 We look at categories being used in the data set, and how other current research categorize their data to check on their alignment, and how to make the dataset more usable in future research. 
 The users have different way of categorizing than research. 
 How do researchers talk about the data that they use for investigating piracy attacks and compare with current dataset. 
+#### RQ: To what extent do the categories and terms present within our dataset collaborate with categories and terms used in research done on pirate attacks in the gulf of Aden?
+- Need to specify dating, categories. 
