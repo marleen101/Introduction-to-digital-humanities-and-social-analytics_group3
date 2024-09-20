@@ -114,4 +114,5 @@ Treat them as such, not as a questionnaire
 5. Extra ideas
 - Media coverage
 - Civil wars
-- Define the dataset, access to more data to see the categorization and definition. Suggestion for future data documentation. 
+- Define the dataset, access to more data to see the categorization and definition. Suggestion for future data documentation.
+- Check on other maritime piracy research to see what factors they focus on
