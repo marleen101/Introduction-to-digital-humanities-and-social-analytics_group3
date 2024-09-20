@@ -100,6 +100,7 @@ Treat them as such, not as a questionnaire
 - There is a huge increase in piracy attacks around the period 2008 - 2012 (based on the data)
 - Gulf of Aden has been a hot location when it comes to piracy (back up article needed)
 - Somalia and Yemen have significant piracy attacks records
+- Contextualization
 3. Ideas
 - Economic factors influencing the rate of piracy attacks in some countries around the Gulf of Aden
 - East of Aden, population => compare the events, insights: how future piracy can happen. 
