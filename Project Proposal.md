@@ -106,7 +106,7 @@ Treat them as such, not as a questionnaire
 - Criminology theories in application to the project
 4. Primary RQ: Effect of economic status Somalia and Yemen on their rate of piracy attacks near their countries between 2008 and 2012. 
 - Why Somalia and Yemen (article back-up, data-based)
-- Why 2008 and 2012
+- Why 2008 and 2012: Since there is a spike in attacks around these years
 - Why economic status (article back-up)
-- How will we do it
+- How will we do it: 
 - Is this pattern still valid to this day?
