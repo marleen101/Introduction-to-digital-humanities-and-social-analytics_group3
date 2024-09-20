@@ -91,3 +91,21 @@ template is meant to answer a specific research question. Do not try to be compl
 confuse you.
 - The questions are meant to make you think (in a systematic way) about a dataset in relation to your research.
 Treat them as such, not as a questionnaire
+
+## Documentation 
+1. Data problems
+- The datasets were second-hand, web-scraped, and incompleted when merged together => There are several NAs on the data, prevent our group from eliciting many insights from them.
+- The categories remained vague and the dataset providers did not make the definitions clear: suspicious attack? boarded and boarding?
+2. Familiarzing with the data
+- There is a huge increase in piracy attacks around the period 2008 - 2012 (based on the data)
+- Gulf of Aden has been a hot location when it comes to piracy (back up article needed)
+- Somalia and Yemen have significant piracy attacks records
+3. Ideas
+- Economic factors influencing the rate of piracy attacks in some countries around the Gulf of Aden
+- East of Aden, population => compare the events, insights: how future piracy can happen. 
+- Criminology theories in application to the project
+4. Primary RQ: Effect of economic status Somalia and Yemen on their rate of piracy attacks near their countries between 2008 and 2012. 
+- Why Somalia and Yemen (article back-up, data-based)
+- Why 2008 and 2012
+- Why economic status (article back-up)
+- How will we do it
