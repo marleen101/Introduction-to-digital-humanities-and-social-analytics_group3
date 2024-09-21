@@ -5,7 +5,7 @@
 
 #### Yasha Hennige – Media, Art, Design & Architecture
 #### Hannah van Keulen – Ancient Studies
-#### Lucille Lu – Economics and Business 
+#### Lucille Lu – Economics and Business Economics
 #### Sávio Porsius Martins – Artificial intelligence 
 #### Trần Phương Linh – Communication Science
 #### Marleen Wolting – Criminology
