@@ -68,7 +68,7 @@ Møller, B. (2009). Piracy off the Coast of Somalia. Danish Institute for Intern
 Peace and Security. (2021, August 9). *Global Response Needed to Counter Rising Security Threats at Sea [Online forum post]*.   
 &emsp;&emsp;&emsp;&emsp;UN News. Retrieved September 21, 2024, from https://news.un.org/en/story/2021/08/1097432
 
-#### Suggested Reading: 
+### Suggested Reading: 
 Coggins, B. L. (2012). Global Patterns of Maritime Piracy, 2000–09. *Journal of Peace Research, 49*(4), 605–617.  
 &emsp;&emsp;&emsp;&emsp;https://doi.org/10.1177/0022343312442520
 
