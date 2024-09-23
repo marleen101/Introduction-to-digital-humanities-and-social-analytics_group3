@@ -38,14 +38,14 @@ The original dataset of piracy attacks was pulled from the International Maritim
 - Draw conclusion
 - Structure findings in a visualization
 - Suggest further research opportunities 
-[^1]:Benden, et al. (2021), p. 4
-[^2]:Peace and Security (2021)
-[^3]:For the importance of accessible metadata see Drucker, (2021), p. 52-69, Borgman (2015), 275-283
+[^1]:Benden, et al. 2021, p. 4
+[^2]:Peace and Security, 2021
+[^3]:For the importance of accessible metadata see Drucker, 2021, p. 52-69 and Borgman, 2015, 275-283
 [^4]:The Gulf of Aden is chosen as a geographical focus, because our dataset currently seems to have the most data on this area and this area is connected to extensive research. This may change/become more specified after further research.
 
-[^5]:For example: Bueger (2013), Elmi, et al. (2015), Hansen (2011) and Møller (2009). See also suggested reading. 
+[^5]:For example: Bueger, 2013; Elmi, et al. 2015; Hansen, 2011 and Møller, 2009. See also suggested reading. 
 
-[^6]:Benden, et al. (2021), p. 2
+[^6]:Benden, et al. 2021, p. 2
 ## Bibliography: 
 Benden, P., Feng, A., Howell, C., & Dalla Riva, G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks  
 &emsp;&emsp;&emsp;&emsp;(1993–2020).*Journal of Open Humanities Data, 7*(0), 19. https://doi.org/10.5334/johd.39 
