@@ -50,7 +50,7 @@ The original dataset of piracy attacks was pulled from the International Maritim
 Benden, P., Feng, A., Howell, C., & Dalla Riva, G. V. (2021). Crime at Sea: A Global Database of Maritime Pirate Attacks  
 &emsp;&emsp;&emsp;&emsp;(1993–2020).*Journal of Open Humanities Data, 7*(0), 19. https://doi.org/10.5334/johd.39 
 
-Borgman, C. L. (2015). What to Keep and Why. In *Big Data, Little Data, No Data: Scholarship in the Networked World*   
+Borgman, C. L. (2015). What to Keep and Why. *Big Data, Little Data, No Data: Scholarship in the Networked World*   
 &emsp;&emsp;&emsp;&emsp;(pp. 271–288). The MIT Press. http://www.jstor.org/stable/j.ctt17kk8n8.16 
 
 Bueger, C. (2013). Practice, Pirates and Coast Guards: the grand narrative of Somali piracy. *Third World Quarterly, 34*(10),  
@@ -84,7 +84,7 @@ Do, Q., Ortega, C. R., & Ma, L. (2016). *Pirates of Somalia: Crime and Deterrenc
 &emsp;&emsp;&emsp;&emsp;https://pdfs.semanticscholar.org/80c1/f678b44d7cea4d69e2adf8655ee86fdbb083.pdf
 
 
-Lewis, J. S. (2015). Maritime Piracy Confrontations Across the Globe: Can Crew Action Shape the Outcomes? Marine Policy, 64,   
+Lewis, J. S. (2015). Maritime Piracy Confrontations Across the Globe: Can Crew Action Shape the Outcomes? *Marine Policy, 64*,   
 &emsp;&emsp;&emsp;&emsp;116–122.https://doi.org/10.1016/j.marpol.2015.11.012
 
 
