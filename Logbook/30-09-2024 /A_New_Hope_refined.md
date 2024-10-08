@@ -38,12 +38,12 @@
 - A brief description of the team.
 
 ### Wednesday to do list:
-Relevance of RQ
-Thesis statement
-Approach & Methodology
-Literature 
-Plan
-Task division
+- Relevance of RQ
+- Thesis statement
+- Approach & Methodology
+- Literature 
+- Plan
+- Task division
 
 
 
