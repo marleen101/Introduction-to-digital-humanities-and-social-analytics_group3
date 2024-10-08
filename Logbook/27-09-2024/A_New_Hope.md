@@ -65,14 +65,6 @@ Savio: Made an extractor, counts entities in a csv file so we can quickly look t
 - A discussion of the relevance of your findings, limitations and future work;
 - A brief description of the team.
 
-### To do list: t.b.c. on Wednesday:
-- Relevance of RQ
-- Thesis statement
-- Approach & Methodology
-- Literature 
-- Plan
-- Task division
-
 
 
 
