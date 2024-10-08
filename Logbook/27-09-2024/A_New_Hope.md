@@ -8,20 +8,38 @@ Savio: Made an extractor, counts entities in a csv file so we can quickly look t
 9.5 proposal (note: we asked for their permission to have a look to learn what we can improve in our project): https://github.com/Yulivu/Introduction-to-Digital-Humanities-and-Social-Analytics-Group7 
 
 ### Discussion:
-#### RQ: To what extent does the corruption index of Nigeria correlate with the rate of piracy attacks on the country between 1993 and 2019? 
 - We need to define: corruption index and decide which factors of the corruption index we will look at. 
 - External or internal validity? Steps that we take, can be replicated by others. - There is a need for further research - we need to specify and be transparent so that there is replicability
-- Why this country? Because of isolated geographical location & outside the hotspot (less chaotic)
-- Nearest country -> is it always Nigeria? 
 - Great recession: 2008, world wide event - check global and local correlations 
-- Nigeria: 559 cases
 - 1993 - 2019: as much as data points we have 
 - Causation or correlation - correlation
 
 #### Keep in mind:
 - Keeping it simple
 - We’re drifting away from our dataset
-=> Correlation between piracy attack and corruption index 
+- Why Somalia and Yemen (article back-up, data-based)
+- Why 2008 and 2012: Since there is a spike in attacks around these years
+- Why economic status (article back-up)
+- How will we do it:
+- Is this pattern still valid to this day?
+
+=> Make groups - see what differences there are between the different groups
+=> use secondary literature to possibly explain differences 
+
+##### Examples of such groups/categorization: 
+- Geographical location (north, east - continent - country as a whole)
+- Economic status
+- Unemployment rate
+- Corruption index
+- GDP
+- Military funding 
+(keep in mind limitations such as social attitudes towards violence and corruption)
+- Political structure 
+- Years (available data)
+
+##### 2015 - 2019
+- top 10 countries nearest to pirate attacks in the span of the years
+- Many missing data: incomplete reports? 
 
 
 ### Instructions: 
