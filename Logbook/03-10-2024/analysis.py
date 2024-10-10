@@ -34,14 +34,13 @@ with open("pirate_attacks.csv", "r", encoding='utf-8') as data:
 
         attacks_per_year.append(attacks[entry])
 
-        print(entry, attacks[entry])
 
 # opening country_indicators.csv and using utf-8 decoding to prevent Unicode characters from causing errors
 with open("country_indicators.csv", "r", encoding='utf-8') as data:
     reader = csv.DictReader(data)
 
     for row in reader:
-        # checking wether or not it is our country
+        # checking whether or not it is our country
         if row['country'] == country_code:
             # adding it into a list since the csv file is already sorted by year
             gdp.append((float(row['GDP'])))# / float(row['population'])))
