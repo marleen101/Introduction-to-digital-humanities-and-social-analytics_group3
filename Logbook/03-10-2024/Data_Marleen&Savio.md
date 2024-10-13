@@ -8,14 +8,13 @@ of corruption in the public sector.
 The following steps are followed to calculate the CPI:
 1. Select data sources: Each data source that is used to construct the CPI must
 fulfil the following criteria to qualify as a valid source:
-• Quantifies perceptions of corruption in the public sector
-• Be based on a reliable and valid methodology, which scores and ranks
-multiple countries on the same scale
-• Performed by a credible institution
-• Allow for sufficient variation of scores to distinguish between countries
-• Gives ratings to a substantial number of countries
-• The rating is given by a country expert or business person
-• The institution repeats their assessment at least every two years
+- Quantifies perceptions of corruption in the public sector
+- Be based on a reliable and valid methodology, which scores and ranks multiple countries on the same scale
+- Performed by a credible institution
+- Allow for sufficient variation of scores to distinguish between countries
+- Gives ratings to a substantial number of countries
+- The rating is given by a country expert or business person
+- The institution repeats their assessment at least every two years
 The CPI is calculated using 13 different data sources from 12 different
 institutions that capture perceptions of corruption within the past two years.
 These sources are described in detail in the accompanying source description
