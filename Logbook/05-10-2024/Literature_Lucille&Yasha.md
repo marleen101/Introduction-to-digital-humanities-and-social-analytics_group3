@@ -32,3 +32,12 @@ Is written from a European perspective, with EU financial incentives in mind.
 “The association between piracy and economic grievance appears stronger than the one with political violence. As per capita GDP increases, the likelihood of piracy decreases, lending weight to the argument that individual resource scarcity contributes to pirate recruitment. Figure 4.7 illustrates the relationship between average individual wealth in a country and maritime piracy.31 We show a distribution plot of piracy incidents across the full range of GDP per capita values in our dataset (1995-2015). The figure shows countries with per capita GDP values above $20,000 (2010 US $ experiencing almost no piracy in their wa-ters. The poorest 50% of countries see the vast majority of piracy that occurs in the international system, suggesting that pirate gangs capitalize on economic marginalization for recruitment.”
 
 At a global level, as the GDP per capita increases, the number of piracy incidents decreases.
+
+#### Nwalozie, C. J. (2020). Exploring Contemporary Sea Piracy in Nigeria, the Niger Delta and the Gulf of Guinea. Journal of Transportation Security, 13(3–4), 159–178. https://doi.org/10.1007/s12198-020-00218-y
+- Acknowledge that the true rate of piracy attacks in Nigeria/the Gulf of Guinea is higher than the statistic available due to underreporting.
+- The Gulf of Guinea is the hotspot of contemporary piracy attacks, which is an important maritime transportation route.
+- Nigeria is one of the largest oil-producing countries. This attracts many pirates to take the advantage of seizing natural resources and resell for higher profits.
+- Owing to a relatively weak institution associated with corruption, youth unemployment, and poverty, Nigeria, especially the Niger Delta region, is highly vulnerable to marine crimes such as oil thefts.
+
+#### Eme, O. N., N, D. D., Chinonyerem, N. T., & Chigozie, M. J. (2022). The Influence of Economic Growth on Trend of Sea Piracy and Armed Robbery Attacks against Ships in Nigeria. Himalayan Journal of Humanities and Cultural Studies, 3(1), 21–28. 
+This article is specifically focused on Nigeria. The result suggests that with a unit increase in GDP, piracy attacks decrease by 3.81 units.
