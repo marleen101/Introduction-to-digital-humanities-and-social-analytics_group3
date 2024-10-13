@@ -1,10 +1,11 @@
 ## Data documentation
 ### Corruption Perceptions Index:
+The following "Short Methodology Note" is from the folder "CPI 2023 Methodology" downloaded from https://www.transparency.org/en/cpi/2023
 ##### Short Methodology Note
 The Corruption Perceptions Index (CPI) aggregates data from a number of different
 sources that provide perceptions by business people and country experts of the level
 of corruption in the public sector.
-=> The following steps are followed to calculate the CPI:
+The following steps are followed to calculate the CPI:
 1. Select data sources: Each data source that is used to construct the CPI must
 fulfil the following criteria to qualify as a valid source:
 • Quantifies perceptions of corruption in the public sector
@@ -29,7 +30,7 @@ on year since 2012. After this procedure, the standardised scores are
 transformed to the CPI scale by multiplying with the value of the CPI standard
 deviation in 2012 (20) and adding the mean of CPI in 2012 (45), so that the data
 set fits the CPI’s 0-100 scale.
-Be aware of the inconsistent way of measurement before and after 2012!!! -> standardise?
+-> Be aware of the inconsistent way of measurement before and after 2012!!! -> standardise?
 3. Calculate the average: For a country or territory to be included in the CPI, a
 minimum of three sources must assess that country. A country’s CPI score is
 then calculated as the average of all standardised scores available for that
