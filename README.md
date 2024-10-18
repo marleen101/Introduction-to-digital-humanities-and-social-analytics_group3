@@ -20,7 +20,7 @@ The folder [Presentation](https://github.com/marleen101/Introduction-to-digital-
 Lastly, [Project proposal and teamcharter](https://github.com/marleen101/Introduction-to-digital-humanities-and-social-analytics_group3/tree/main/Project%20proposal%20and%20team%20charter) contains the files of our team charter (information about the team members of the group and rules we made within the project) and the project proposal (what we want to do with our project). There is also a final draft of the two files combined, which we had to hand in in the course. However, the file with the project proposal was written for an initial idea we had for our project, which isn't the final direction we went. That project proposal was focussed on a different research question. To know more about our change of direction, look in the folder [logbook](https://github.com/marleen101/Introduction-to-digital-humanities-and-social-analytics_group3/tree/main/Logbook) at the date **2024-09-27** and **2024-09-30**. 
 
 
-The file `DH_Group_3_Project_Documentation .pdf` is an important file in our github repository. The file states an overview of our project, workflow steps, our result of the project and reflection. 
+The file `DH_Group_3_Project_Documentation.pdf` is an important file in our github repository. The file states an overview of our project, workflow steps, our result of the project and reflection. 
 
 
 Please explore the repository to learn more about our research and findings!
